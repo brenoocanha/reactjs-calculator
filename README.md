@@ -13,8 +13,8 @@ This is a simple calculator built with ReactJS. It allows users to perform basic
 
 To run the calculator locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/react-calculator.git`
-2. Navigate to the project directory: `cd react-calculator`
+1. Clone the repository: `git clone https://github.com/brenoocanha/react-calculator.git`
+2. Navigate to the project directory: `cd reactjs-calculator`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to see the calculator in action.
@@ -32,18 +32,4 @@ To run the calculator locally, follow these steps:
 - ReactJS
 - HTML
 - CSS
-
-## Contributing
-
-Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contact
-
-If you have any questions or suggestions, please feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
-
----
-Note: This is a sample README file. Modify it according to your project requirements.
+- MaterialsUI
